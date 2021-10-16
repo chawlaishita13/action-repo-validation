@@ -1,5 +1,5 @@
 # GitHub Action for Validating Action Repositories
-A GitHub Action to validate action repositories. There are certain validations that need to be checked in an Action repository. For instance, it is ideal for an Action repository to have a README file with an Example workflow and Contribution Guidelines.
+This is a GitHub Action to validate action repositories. There are certain validations that need to be checked in an Action repository. For instance, it is ideal for an Action repository to have a README file with an Example workflow and Contribution Guidelines.
 
 With this Action, you can check for essential [Validations for an Action repository](https://github.com/Azure/actions/blob/main/docs/validations-action-repo.md). For every check, either a success message will be displayed or an error will be thrown.   
 
